@@ -8,7 +8,8 @@
 ![c54dadba5a52e996bdc911b4d349766](https://github.com/JiangYihe/benchmarksql5.0-nvmdb/assets/71739806/9b301a48-c700-4036-881f-6e2bf067f762)
 
 
-**编译方法与开源版本的benchmarksql5.0相同**
+编译方法与开源版本的benchmarksql5.0相同
+-------------------------------------
 
 
 
