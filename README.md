@@ -1,0 +1,1 @@
+此benchmarksql是开源版本benchmark5.0的改进版，在测试报告中新增了测量平均延迟的功能
